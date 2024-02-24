@@ -13,7 +13,7 @@ I'm a passionate software engineer with expertise in front-end development, part
 - [React iOS Select](https://www.npmjs.com/package/react-ios-select)
 
 ## 📊 GitHub Stats
-[![Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)](https://github.com/khantopa/github-readme-stats)
 
 ## 💻 Skills
 - React.js ![React](https://img.icons8.com/office/16/000000/react.png)
