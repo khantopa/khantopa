@@ -16,15 +16,17 @@ I'm a passionate software engineer with expertise in front-end development, part
 [![Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=khantopa&show_icons=true&theme=dark)](https://github.com/khantopa/github-readme-stats)
 
 ## 💻 Skills
-- React.js ![React](https://img.icons8.com/office/16/000000/react.png)
-- TypeScript ![TypeScript](https://img.icons8.com/color/16/000000/typescript.png)
-- JavaScript ![JavaScript](https://img.icons8.com/color/16/000000/javascript.png)
-- HTML ![HTML5](https://img.icons8.com/color/16/000000/html-5.png)
-- CSS ![CSS3](https://img.icons8.com/color/16/000000/css3.png)
-- Node.js ![Node.js](https://img.icons8.com/color/16/000000/nodejs.png)
-- Express ![Express.js](https://img.icons8.com/color/16/000000/express.png)
-- MongoDB/Mongoose ![MongoDB](https://img.icons8.com/color/16/000000/mongodb.png)
-- GraphQL ![GraphQL](https://img.icons8.com/color/16/000000/graphql.png)
+<p align="center">
+  <img src="https://img.icons8.com/office/48/000000/react.png" alt="React.js" title="React.js" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" title="Express.js" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB/Mongoose" title="MongoDB/Mongoose" />
+  <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" title="GraphQL" />
+</p>
 
 ## 📧 Contact Me
 - Email: mkhan377@gmail.com
