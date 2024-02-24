@@ -1,4 +1,4 @@
-### Hi there! I'm Mohamed Khan, a Software Engineer, currently residing in Singapore as an expatriate. 👋
+### Hi there 👋 I'm Mohamed Khan, a Software Engineer, currently residing in Singapore as an expatriate. 
 
 <!--
 **khantopa/khantopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
