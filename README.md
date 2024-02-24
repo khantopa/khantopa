@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Mohamed Khan</h1>
-#
+# <h1 align="center">Hi, I'm Mohamed Khan</h1>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khantopa/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/khantopa)
 [![npm](https://img.shields.io/badge/npm-Package-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/khantopa)
