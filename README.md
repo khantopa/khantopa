@@ -8,6 +8,7 @@
 I'm a passionate software engineer with expertise in front-end development, particularly in React.js, TypeScript, JavaScript, HTML, and CSS. I also have experience in backend technologies like Node.js, Express, Mongoose, and GraphQL.
 
 ## 📝 Featured Medium Article
+- [How AWS CodeArtifact Simplifies Our Private Package Management](https://medium.com/reflex-media/how-aws-codeartifact-simplifies-our-private-package-management-c48405deede5)
 - [Discover the Secrets of React Hooks useEffect, useLayoutEffect, and When to Use Them](https://medium.com/reflex-media/discover-the-secrets-of-react-hooks-useeffect-uselayouteffect-and-when-to-use-them-59b9439ba60f)
 
 ## 📦 Featured NPM Package
